@@ -7,7 +7,7 @@
 2. CRUD with file handling: Save, search, update, delete.
 
 3. Login and and singIn pages 
-![Login Screen](<img width="871" height="734" alt="image" src="https://github.com/user-attachments/assets/2c778b58-a91f-4a48-b098-42b22068fe5c" />
+![Login Screen](![Login](https://github.com/user-attachments/assets/b1c0d29d-4a5d-4b54-9250-0b9631847361)
 )
 
 5. GPA calculation + classification with COMSATS rules.
